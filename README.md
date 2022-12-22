@@ -5,4 +5,4 @@ In this project, at first, we implement a Feed Forward neural network from scrat
 
 ## Dataset:
 We work with a KMnist dataset (abbreviated as Kuzushiji-MNIST) containing 28 x 28 pixel grayscale images and 75,000 images of 20 different classes or characters, representing one syllable in the Hiragana script (the words using  They are built (similar to an Alfia).
-Dataset is available [here](https://drive.google.com/file/d/0BxYys69jI14kYVM3aVhKS1VhRUk/view?resourcekey=0-dabpv_3J0C0cditpiAfhAw).
+
